@@ -1,2 +1,2 @@
-# Python_Learning:
-Jest sekcją poświąconą mojej nauce języka programowania Python
+# Python_Learning_Snake:
+Pierwszy Projekt Pythonowy - snake
